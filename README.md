@@ -1,4 +1,4 @@
-# Face-Detection-with-CV
+# Face Detection - Haar Cascade vs MTCNN
 
 This is a comparison between the classic Haar Cascade Face Detection and the Newer and much advanced MTCNN (Multi-task Cascaded Convolutional Neural Networks) by Kaipeng Zhang et.al
 
